@@ -75,7 +75,10 @@
 
 ---
 
-[Screen](https://i.imgur.com/wVeAa0w.png)
+<p align="center">
+  <img src="https://i.imgur.com/wVeAa0w.png" alt="Screenshot 5" width="45%" style="margin-right: 10px;">
+  <img src="https://i.imgur.com/osy9sCK.png" alt="Screenshot 6" width="45%">
+</p>
 
 ---
 
